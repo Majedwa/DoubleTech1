@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796677571165",
+    "project_id": "dukanji2-a60e8",
+    "storage_bucket": "dukanji2-a60e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796677571165:android:096d027453218a848f43b4",
+        "android_client_info": {
+          "package_name": "com.example.dukanji2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdrT4KNoTgY0I9DV8qvKYhcrkC9jGesa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
